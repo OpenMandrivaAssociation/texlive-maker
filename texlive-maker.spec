@@ -1,6 +1,6 @@
 Name:		texlive-maker
 Version:	44823
-Release:	1
+Release:	2
 Summary:	Include Arduino or Processing code in LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/maker
