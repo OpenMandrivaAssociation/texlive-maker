@@ -3,7 +3,7 @@ Version:	44823
 Release:	2
 Summary:	Include Arduino or Processing code in LaTeX documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/maker
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/maker
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/maker.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/maker.doc.r%{version}.tar.xz
